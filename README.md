@@ -103,15 +103,17 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 
-
+![I1](https://github.com/Kowshika215/Transfer-Learning/blob/main/Screenshot%202026-03-15%20203109.png)
 
 
 ### Confusion Matrix
 
+![I2](https://github.com/Kowshika215/Transfer-Learning/blob/main/Screenshot%202026-03-15%20203640.png)
 
 
 ### Classification Report
 
+![I3](https://github.com/Kowshika215/Transfer-Learning/blob/main/Screenshot%202026-03-15%20202902.png)
 
 
 ### New Sample Prediction
