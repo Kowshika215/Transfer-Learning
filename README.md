@@ -116,7 +116,7 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 ### New Sample Prediction
 
-
+![I4](https://github.com/Kowshika215/Transfer-Learning/blob/main/Screenshot%202026-03-15%20202923.png)
 
 ## RESULT
 
